@@ -14,12 +14,7 @@ A simple and efficient matrix calculator library for Python.
 
 ```bash
 pip install alumathGroup26
-
-
-## Usage
-
-```bash
-from alumathGroup26 import Matrix, multiply_matrices
+from alumath import Matrix, multiply_matrices
 
 # Create matrices
 matrix1 = Matrix([[1, 2], [3, 4]])

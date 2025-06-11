@@ -1,13 +1,13 @@
 Metadata-Version: 2.1
 Name: alumathGroup26
-Version: 0.1.0
+Version: 0.1.1
 Summary: A simple matrix calculator library
-Home-page: https://github.com/yourusername/alumathGroup26
-Author: Your Name
-Author-email: Your Name <your.email@example.com>
+Home-page: https://github.com/lGikundiro/Advanced-Linear-Algebra---Formative-2
+Author: Terry Manzi
+Author-email: Manzi Terry <m.terry@alustudent.com>
 License: MIT
-Project-URL: Homepage, https://github.com/yourusername/alumathGroup26
-Project-URL: Repository, https://github.com/yourusername/alumathGroup26
+Project-URL: Homepage, https://github.com/lGikundiro/Advanced-Linear-Algebra---Formative-2
+Project-URL: Repository, https://github.com/lGikundiro/Advanced-Linear-Algebra---Formative-2
 Keywords: matrix,mathematics,linear algebra,calculator
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
@@ -33,12 +33,7 @@ A simple and efficient matrix calculator library for Python.
 
 ```bash
 pip install alumathGroup26
-
-
-## Usage
-
-```bash
-from alumathGroup26 import Matrix, multiply_matrices
+from alumath import Matrix, multiply_matrices
 
 # Create matrices
 matrix1 = Matrix([[1, 2], [3, 4]])

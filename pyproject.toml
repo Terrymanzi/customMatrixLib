@@ -4,10 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "alumathGroup26"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple matrix calculator library"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Manzi Terry", email = "m.terry@alustudent.com"}
 ]
 license = {text = "MIT"}
 readme = "README.md"
@@ -22,5 +22,5 @@ classifiers = [
 keywords = ["matrix", "mathematics", "linear algebra", "calculator"]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/alumathGroup26"
-Repository = "https://github.com/yourusername/alumathGroup26"
+Homepage = "https://github.com/lGikundiro/Advanced-Linear-Algebra---Formative-2"
+Repository = "https://github.com/lGikundiro/Advanced-Linear-Algebra---Formative-2"
