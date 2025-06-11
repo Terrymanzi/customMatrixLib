@@ -4,14 +4,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="alumath",
+    name="alumathGroup26",
     version="0.1.0",
     author="Your Name",
     author_email="your.email@example.com",
     description="A simple matrix calculator library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/alumath",
+    url="https://github.com/yourusername/alumathGroup26",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
